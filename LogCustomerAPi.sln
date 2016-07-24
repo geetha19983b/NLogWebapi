@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogCustomerAPi", "LogCustomerAPi\LogCustomerAPi.csproj", "{9E192D2A-2491-4114-ACEA-601C48A8E825}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLogCustomerAPI", "NLogCustomerAPI\NLogCustomerAPI.csproj", "{1A2FA83B-A09A-452D-8CC0-A604903106D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E192D2A-2491-4114-ACEA-601C48A8E825}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E192D2A-2491-4114-ACEA-601C48A8E825}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E192D2A-2491-4114-ACEA-601C48A8E825}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E192D2A-2491-4114-ACEA-601C48A8E825}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A2FA83B-A09A-452D-8CC0-A604903106D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A2FA83B-A09A-452D-8CC0-A604903106D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A2FA83B-A09A-452D-8CC0-A604903106D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A2FA83B-A09A-452D-8CC0-A604903106D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

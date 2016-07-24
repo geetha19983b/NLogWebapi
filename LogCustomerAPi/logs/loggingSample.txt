@@ -1,0 +1,4 @@
+2016-07-24 14:21:49,007 LoggerSimple INFO - 200 GET /customers 0 OK
+2016-07-24 14:21:51,591 LoggerSimple INFO - 200 GET /customers 0 OK
+2016-07-24 14:21:52,142 LoggerSimple INFO - 200 GET /customers 0 OK
+2016-07-24 14:21:52,584 LoggerSimple INFO - 200 GET /customers 0 OK
